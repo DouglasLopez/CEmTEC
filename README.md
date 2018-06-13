@@ -1,6 +1,10 @@
 CEmTEC
 ======================
 
+<p align="center">
+  <img src="img/cemtec_finished.jpg" width="350"/>
+</p>
+
 Open source woodworking crib for emergency situations
 Work In progress
 
